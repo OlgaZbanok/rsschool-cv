@@ -4,11 +4,11 @@
     - Email: [olga@zbanok.com](mailto:olga@zbanok.com)
     - GitHub: [https://github.com/olgazbanok](https://github.com/olgazbanok)
 	
-3. **Summary**
-	My main goal is to be front-end developer. This job is a good opportunity to realize myself, to grow as a professional. I want to see that my work and my efforts  give results, that they are needed, highly valued and well paid.
+3. **Summary**  
+My main goal is to be front-end developer. This job is a good opportunity to realize myself, to grow as a professional. I want to see that my work and my efforts  give results, that they are needed, highly valued and well paid.
 
-4. **Skills**
-	Python 2/3, Django, JS, HTML, CSS (Bootstrap 4), SQlite, MySQL, Docker, Git.
+4. **Skills**  
+Python 2/3, Django, JS, HTML, CSS (Bootstrap 4), SQlite, MySQL, Docker, Git.
 
 5. **Code example**
 
@@ -27,11 +27,11 @@
 				});
 			}
 		}
-6. **Experience**
-	I am involved in the development learning platform for students. ([http://www.elearning.mslu.by](http://www.elearning.mslu.by))
+6. **Experience**  
+I am involved in the development learning platform for students. ([http://www.elearning.mslu.by](http://www.elearning.mslu.by))
 
-7. **Education**
-	BSUIR (Faculty of Computer Systems and Networks). Online course "Introduction to JavaScript and React" on Stepik.org.
+7. **Education**  
+BSUIR (Faculty of Computer Systems and Networks). Online course "Introduction to JavaScript and React" on Stepik.org.
 
-8. **English**
-	Pre-intermediate (A2).
+8. **English**  
+Pre-intermediate (A2).
