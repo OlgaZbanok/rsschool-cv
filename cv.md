@@ -28,3 +28,5 @@
 6. I am involved in the development learning platform for students. ([http://www.elearning.mslu.by](http://www.elearning.mslu.by))
 
 7. BSUIR (Faculty of Computer Systems and Networks). Online course "Introduction to JavaScript and React" on Stepik.org.
+
+8. English level: pre-intermediate (A2).
