@@ -1,4 +1,4 @@
-1. ##### Volha Zbanok
+1. #### Volha Zbanok
 2. Contact Info
     - Phone/Viber: +375297453379
     - Email: olga@zbanok.com
