@@ -1,0 +1,69 @@
+.container {
+    max-width:1024px;
+    width: 60%;
+    margin:0 auto;
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 2em; 
+}
+
+h1,
+h2 {
+    color: brown; 
+    margin: 5px 0;
+}
+
+i {
+      color:brown;
+      size: 20px;
+}
+
+.header {
+    display: flex;
+}
+
+.contact {
+    margin-left: 10px;
+}
+
+figure {
+    width: 150px; 
+    margin: 10px;
+}
+
+img {
+    width: 100%;
+}
+
+.contact ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    
+}
+
+main {
+    margin: 5px;
+}
+
+main p {
+    margin-left: 25px;
+}
+pre {
+    margin-top: 0;
+}
+code {
+    font-size: 0.8em;
+    white-space: pre-wrap;
+}
+
+footer {
+    text-align: right;
+    height: 30px;
+    font-size: 1.2rem;
+}
+
+

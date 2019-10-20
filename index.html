@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">  
+    <link href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" rel="stylesheet">
+    <title>Olga Zbanok CV</title>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <figure> 
+                <img src="./images/photo.jpg" alt="My Photo" />
+            </figure> 
+            <div class="contact">
+                <h1>VOLHA ZBANOK</h1>
+                <h2>Contacts</h2>
+                <ul>
+                    <li><i class="fa fa-mobile-alt" aria-hidden="false"></i> <a href="tel:+375297453379">+375297453379</a></li>
+
+                     <li><i class="far fa-envelope" aria-hidden="false"></i> <a href="mailto:olga@zbanok.com">olga@zbanok.com</a> </li>
+
+                    <li><i class="fab fa-github" aria-hidden="false"></i> <a href="https://github.com/olgazbanok">https://github.com/olgazbanok</a></li>
+                     
+                </ul>
+            </div>
+        </header>
+        <main>
+            <section class="summary">
+                <div class="name">
+                <h2>Summary</h2>
+                <p>My main goal is to be front-end developer. This job is a good opportunity to realize myself, to grow as a professional. I want to see that my work and my efforts give results, that they are needed, highly valued and well paid.</p>
+            </section>
+            <section class="skills">
+                    <h2>Skills</h2>
+                    <p>Python 2/3, Django, JS, HTML, CSS (Bootstrap 4), XML, SQlite, MySQL, Docker, Git.</p>
+            </section>
+            <section class="code">
+                <h2>Code examples</h2>
+                <pre><code>
+    function mark(cntr_id){
+        $('#' + cntr_id + ' .mark').click(function(){ $(this).toggleClass('marked'); } );
+        if ($().tooltip){
+            $(document).tooltip({
+                track: true,
+                items: '.mark.right',
+                content: function(){
+                    var $item = $(this);
+                    var index = $item.closest('.question').find('.mark.right').index($item);
+                    var text = $item.closest('.task-body').find('.mark-info').eq(index).html();
+                    return text;
+                }
+            );
+        }
+    }
+                </code></pre>
+            </section>
+            <section class="experience">
+                <h2>Experience </h2>
+                <p>I am involved in the development learning platform for students. (<a href="http://www.elearning.mslu.by">http://www.elearning.mslu.by</a>)</p>
+            </section>
+            <section class="education">
+                <h2>Education</h2>
+                <p>BSUIR (Faculty of Computer Systems and Networks). Online course "Introduction to JavaScript and React" on Stepik.org.</p>
+            </section>
+            <section class="english">
+                <h2>English </h2>
+                <p>A2 level.</p>
+            </section>
+        </main>
+        <footer>©2019</footer>
+    </div>
+</body>
+</html>
